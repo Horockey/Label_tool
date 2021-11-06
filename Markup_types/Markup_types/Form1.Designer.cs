@@ -94,7 +94,8 @@ namespace Markup_types
             "Architecture",
             "Animals",
             "People",
-            "Nature"});
+            "Nature",
+            "NO_AVATAR"});
 			this.selectLabelCB.Location = new System.Drawing.Point(313, 34);
 			this.selectLabelCB.Name = "selectLabelCB";
 			this.selectLabelCB.Size = new System.Drawing.Size(109, 23);

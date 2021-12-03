@@ -349,3 +349,5 @@ healthchecksdb
 MigrationBackup/
 
 Get_VK_info_script/TOKEN_VK.info
+
+DB scripts ant egs/DB_scripts/DB_scripts/AppendAnswerToDB.py.bak
